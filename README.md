@@ -27,7 +27,7 @@ Feel free to add extra functions or improvements, This helps me to familiarise m
 
 ## Running instructions
 
-- Copy project to your directory ( git clone https://github.com/ibnzUK/NFT-Marketplace )
+- Copy project to your directory ( git clone https://github.com/zinping/NFT-marketplace-721-1155 )
 - navigate to _NFT-Marketplace_ project directory
 - make sure you have node.js installed on your machine
 - install project packages (npm install)
